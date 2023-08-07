@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "437264632138",
+    "project_id": "cv-viewer-8ac82",
+    "storage_bucket": "cv-viewer-8ac82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437264632138:android:fde2c40122cd0da69fd9b3",
+        "android_client_info": {
+          "package_name": "com.example.cv_viewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437264632138-h574lfq1qa6ia4oo0gtlvd1ebubqkca2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB25YM6hH7U2xVRJ1g6UukwFGHhg3nPYRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437264632138-h574lfq1qa6ia4oo0gtlvd1ebubqkca2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "437264632138-27alhuuuo27oea2l9fbqecj0urbo1e09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cvViewer.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
